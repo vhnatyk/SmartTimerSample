@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:neo="clr-namespace:Xamarin.Forms.NeoControls;assembly=Xamarin.Forms.NeoControls"
+             mc:Ignorable="d"
+             BackgroundColor="{StaticResource PrimaryColor}"
+             x:Class="SmartSocketSample.MainPage">
+    <StackLayout>
+        <!--Title-->
+        <Label Text="Timer" TextColor="#52698E" FontSize="Title" FontAttributes="Bold" HorizontalTextAlignment="Center" Margin="0,70,0,0" HorizontalOptions="Center" VerticalOptions="Start" />
+        <!-- Center section -->
+        <yummy:PancakeView HeightRequest="360"
+                           WidthRequest="360"
+                           CornerRadius="180"
+                           Margin="0,30,0,0"
+                           BackgroundColor="{StaticResource PrimaryColor}"
+                           BorderColor="{StaticResource LightPrimaryColor}"
+                           BorderThickness="3"
+                           HasShadow="False"
+                           VerticalOptions="Center"
+                           HorizontalOptions="CenterAndExpand">
+
+            <neo:NeoButton HeightRequest="300"
+                           WidthRequest="300"
+                           CornerRadius="280"
+                           BackgroundColor="{StaticResource PrimaryColor}"
+                           DarkShadowColor="{StaticResource DarkPrimaryColor}"
+                           LightShadowColor="{StaticResource LightPrimaryColor}"
+                           Elevation=".25"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center">
+
+                <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+                    <Label Text="05 : 20" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#566C91" FontAttributes="Bold" FontSize="40"/>
+                    <!--<Label Text="shutdown" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#657A9B"  FontSize="Header"/>-->
+                    <neo:NeoButton HeightRequest="100"
+                           WidthRequest="100"
+                           CornerRadius="80"
+                           Margin="0,20,0,0"
+                           BackgroundColor="{StaticResource PrimaryColor}"
+                           DarkShadowColor="{StaticResource DarkPrimaryColor}"
+                           LightShadowColor="{StaticResource LightPrimaryColor}"
+                           Elevation=".15"
+                           HorizontalOptions="Center"
+                           VerticalOptions="End">
+
+                        <Image Source="powerIcon" HeightRequest="40" HorizontalOptions="Center" VerticalOptions="Center" Aspect="AspectFit"/>
+
+                    </neo:NeoButton>
+                </StackLayout>
+
+            </neo:NeoButton>
+
+        </yummy:PancakeView>
+
+        <!--Add time buttons-->
+        <StackLayout Orientation="Horizontal" Margin="0,20" HorizontalOptions="Center" Spacing="20" HeightRequest="120">
+
+            <neo:NeoButton HeightRequest="100"
+                           WidthRequest="100"
+                           CornerRadius="80"
+                           BackgroundColor="{StaticResource PrimaryColor}"
+                           DarkShadowColor="{StaticResource DarkPrimaryColor}"
+                           LightShadowColor="{StaticResource LightPrimaryColor}"
+                           Elevation=".15"
+                           HorizontalOptions="Start"
+                           VerticalOptions="CenterAndExpand">
+
+                <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                    <Label Text="5" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#566C91" FontAttributes="Bold" FontSize="Large"/>
+                    <Label Text="min" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#657A9B"  FontSize="Small"/>
+                </StackLayout>
+
+            </neo:NeoButton>
+
+            <neo:NeoButton HeightRequest="100"
+                           WidthRequest="100"
+                           CornerRadius="80"
+                           BackgroundColor="{StaticResource PrimaryColor}"
+                           DarkShadowColor="{StaticResource DarkPrimaryColor}"
+                           LightShadowColor="{StaticResource LightPrimaryColor}"
+                           Elevation="0.15"
+                           HorizontalOptions="Start"
+                           VerticalOptions="CenterAndExpand">
+
+                <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                    <Label Text="10" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#566C91" FontAttributes="Bold" FontSize="Large"/>
+                    <Label Text="min" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#657A9B"  FontSize="Small"/>
+                </StackLayout>
+
+            </neo:NeoButton>
+
+            <neo:NeoButton HeightRequest="100"
+                           WidthRequest="100"
+                           CornerRadius="80"
+                           BackgroundColor="{StaticResource PrimaryColor}"
+                           DarkShadowColor="{StaticResource DarkPrimaryColor}"
+                           LightShadowColor="{StaticResource LightPrimaryColor}"
+                           Elevation=".15"
+                           HorizontalOptions="Start"
+                           VerticalOptions="CenterAndExpand">
+
+                <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                    <Label Text="15" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#566C91" FontAttributes="Bold" FontSize="Large"/>
+                    <Label Text="min" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#657A9B"  FontSize="Small"/>
+                </StackLayout>
+
+            </neo:NeoButton>
+        </StackLayout>
+
+        <!--Bottom section-->
+        <neo:NeoFrame HeightRequest="150"
+                      WidthRequest="350"
+                      CornerRadius="50"
+                      HorizontalOptions="Center"
+                      BackgroundColor="{StaticResource PrimaryColor}"
+                      DarkShadowColor="{StaticResource DarkPrimaryColor}"
+                      LightShadowColor="{StaticResource LightPrimaryColor}"
+                      Elevation=".15">
+
+            <StackLayout  Margin="30,30" Spacing="15">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="Start" >
+                    <Image Source="icons8-alarm-on-64" HeightRequest="40" VerticalOptions="Center" HorizontalOptions="Start"/>
+                    <Label Text="Show seconds" HorizontalOptions="Start" VerticalOptions="Center" VerticalTextAlignment="Center" TextColor="#566C91" FontAttributes="Bold" FontSize="20"/>
+                    <Switch  HorizontalOptions="EndAndExpand" VerticalOptions="Center" OnColor="#82D19F" ThumbColor="#EEF1F8"/>
+                </StackLayout>
+                <!--Divider-->
+                <BoxView HeightRequest="2" BackgroundColor="#EEF1F8" HorizontalOptions="Fill" VerticalOptions="Center"/>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Add timer" HorizontalOptions="CenterAndExpand" VerticalTextAlignment="Center" VerticalOptions="Center" TextColor="#566C91" FontAttributes="Bold" FontSize="Medium"/>
+                    <Image Source="rightIcon" HeightRequest="20" VerticalOptions="Center" HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+            </StackLayout>
+        </neo:NeoFrame>
+    </StackLayout>
+</ContentPage>
