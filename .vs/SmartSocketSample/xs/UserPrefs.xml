@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{603246DD-2CB6-4A7F-9CFB-68B2F0A1BE3E}|Default">
+  <MonoDevelop.Ide.ItemProperties.SmartSocketSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F5227541-F7ED-4B71-AEC6-FFC6E095C4E8" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartSocketSample/App.xaml">
+    <Files>
+      <File FileName="SmartSocketSample/MainPage.xaml" Line="87" Column="101" />
+      <File FileName="SmartSocketSample/App.xaml" Line="7" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmartSocketSample" expanded="True">
+            <Node name="SmartSocketSample" expanded="True">
+              <Node name="App.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SmartSocketSample.Android PreferredExecutionTarget="Android.pixel_3_xl_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

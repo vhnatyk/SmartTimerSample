@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iqfcEykq78i0JMolx668vRvbmA6VCiowDM7QiFArrXaL+8Z2ZQgLy8A4GWYcxFzbz2YcPvBx0PwzSvAMTTNAag==",
+  "dgSpecHash": "kX3OARhEAduKhAp3kWcflW5AyAz8CBTa0oVuI2PEE1QrnS3WXygiqyM+i9Nrsg77KelF/UFlPTkRhd2fyF/wcA==",
   "success": true,
-  "projectFilePath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.iOS/SmartSocketSample.iOS.csproj",
+  "projectFilePath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.iOS/SmartSocketSample.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/abdur/.nuget/packages/skiasharp/1.68.1.1/skiasharp.1.68.1.1.nupkg.sha512",
     "/Users/abdur/.nuget/packages/skiasharp.views/1.68.1.1/skiasharp.views.1.68.1.1.nupkg.sha512",

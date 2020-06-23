@@ -2086,11 +2086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/SmartSocketSample.csproj",
+      "projectUniqueName": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/SmartSocketSample.csproj",
       "projectName": "SmartSocketSample",
-      "projectPath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/SmartSocketSample.csproj",
+      "projectPath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/SmartSocketSample.csproj",
       "packagesPath": "/Users/abdur/.nuget/packages/",
-      "outputPath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/obj/",
+      "outputPath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/abdur/.config/NuGet/NuGet.Config"

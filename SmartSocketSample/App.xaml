@@ -4,5 +4,7 @@
         <Color x:Key="PrimaryColor">#E6E9F0</Color>
         <Color x:Key="DarkPrimaryColor">#8A8B90</Color>
         <Color x:Key="LightPrimaryColor">#EEF1F8</Color>
+        <Color x:Key="PrimaryTextColor">#566C91</Color>
+        <Color x:Key="LightPrimaryTextColor">#566C91</Color>
     </Application.Resources>
 </Application>

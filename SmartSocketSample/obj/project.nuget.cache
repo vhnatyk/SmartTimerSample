@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hj8+qmSl3fK9q4L/9bPwHakdRJixXFej2I1qGLCyc4M5acCN4NvErsqO40ORbvyc1X4S1EsfJ4XOS/Y+UDjInw==",
+  "dgSpecHash": "34QHSi73D/gWmMZ/iwx8uJvldUwydkKcl9gH3/JDuoM6sdTBbC5bcGwmr+XLttL+M9t8IHZl70y6Fi1eqB0RGg==",
   "success": true,
-  "projectFilePath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/SmartSocketSample.csproj",
+  "projectFilePath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/SmartSocketSample.csproj",
   "expectedPackageFiles": [
     "/Users/abdur/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/abdur/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",

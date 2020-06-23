@@ -1,5 +1,5 @@
-"--cache=/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache"
-"--sim=/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/SmartSocketSample.iOS.app"
+"--cache=/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-cache"
+"--sim=/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/SmartSocketSample.iOS.app"
 --executable=SmartSocketSample.iOS
 --debug
 --sgen-conc
@@ -10,11 +10,11 @@
 --aot-options=-O=-float32
 --http-message-handler=NSUrlSessionHandler
 --abi=x86_64
-"--symbollist=/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-symbols.list"
+"--symbollist=/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/mtouch-symbols.list"
 --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
--r=/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/bin/Debug/netstandard2.0/SmartSocketSample.dll
+-r=/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/bin/Debug/netstandard2.0/SmartSocketSample.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll
@@ -208,7 +208,7 @@
 -r=/Users/abdur/.nuget/packages/xamarin.forms/4.5.0.495/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/abdur/.nuget/packages/xamarin.forms.neocontrols/1.1.0-pre/lib/netstandard2.0/Xamarin.Forms.NeoControls.dll
 -r=/Users/abdur/.nuget/packages/xamarin.forms.pancakeview/1.4.2/lib/xamarinios10/Xamarin.Forms.PancakeView.dll
--r=/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/bin/Debug/netstandard2.0/SmartSocketSample.dll
+-r=/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/bin/Debug/netstandard2.0/SmartSocketSample.dll
 -r=/Users/abdur/.nuget/packages/xamarin.forms/4.5.0.495/build/XCODE11/Xamarin.Forms.Platform.iOS.dll
 --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.iOS/bin/iPhoneSimulator/Debug/SmartSocketSample.iOS.exe
+--root-assembly=/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.iOS/bin/iPhoneSimulator/Debug/SmartSocketSample.iOS.exe

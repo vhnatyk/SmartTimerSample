@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj": {}
+    "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj": {}
   },
   "projects": {
-    "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj": {
+    "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj",
+        "projectUniqueName": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj",
         "projectName": "SmartSocketSample.Android",
-        "projectPath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj",
+        "projectPath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj",
         "packagesPath": "/Users/abdur/.nuget/packages/",
-        "outputPath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.Android/obj/",
+        "outputPath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/SmartSocketSample.csproj": {
-                "projectPath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/SmartSocketSample.csproj"
+              "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/SmartSocketSample.csproj": {
+                "projectPath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/SmartSocketSample.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/SmartSocketSample.csproj": {
+    "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/SmartSocketSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/SmartSocketSample.csproj",
+        "projectUniqueName": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/SmartSocketSample.csproj",
         "projectName": "SmartSocketSample",
-        "projectPath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/SmartSocketSample.csproj",
+        "projectPath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/SmartSocketSample.csproj",
         "packagesPath": "/Users/abdur/.nuget/packages/",
-        "outputPath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample/obj/",
+        "outputPath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/abdur/.config/NuGet/NuGet.Config"

@@ -12,3 +12,17 @@
 /Users/abdur/Projects/SmartSocketSample/SmartSocketSample/obj/Debug/netstandard2.0/SmartSocketSample.dll
 /Users/abdur/Projects/SmartSocketSample/SmartSocketSample/obj/Debug/netstandard2.0/ref/SmartSocketSample.dll
 /Users/abdur/Projects/SmartSocketSample/SmartSocketSample/obj/Debug/netstandard2.0/SmartSocketSample.pdb
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/bin/Debug/netstandard2.0/SmartSocketSample.deps.json
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/bin/Debug/netstandard2.0/SmartSocketSample.dll
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/bin/Debug/netstandard2.0/ref/SmartSocketSample.dll
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/bin/Debug/netstandard2.0/SmartSocketSample.pdb
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/SmartSocketSample.csprojAssemblyReference.cache
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/SmartSocketSample.AssemblyInfoInputs.cache
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/SmartSocketSample.AssemblyInfo.cs
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/SmartSocketSample.csproj.CoreCompileInputs.cache
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/SmartSocketSample.dll
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/ref/SmartSocketSample.dll
+/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample/obj/Debug/netstandard2.0/SmartSocketSample.pdb

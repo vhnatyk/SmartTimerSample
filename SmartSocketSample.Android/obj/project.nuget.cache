@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IfM2xkAG5cvAxbYc9/PC37aqfDeD1PNqCfyOtPB8wdY/0RhG5QP7lCFh66vwu1X9fkm1XuIHqkZ29DFTtIYppw==",
+  "dgSpecHash": "imlcICl3joTSeiLltRn22xlo8KMuLUZb3imAOiBz0+4PI11JOeyFTY3sdgqWL9aqcsCPE2AuHsl2jKYqL3AYnA==",
   "success": true,
-  "projectFilePath": "/Users/abdur/Projects/SmartSocketSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj",
+  "projectFilePath": "/Users/abdur/Projects/SmartSocketSample/SmartTimerSample/SmartSocketSample.Android/SmartSocketSample.Android.csproj",
   "expectedPackageFiles": [
     "/Users/abdur/.nuget/packages/skiasharp/1.68.1.1/skiasharp.1.68.1.1.nupkg.sha512",
     "/Users/abdur/.nuget/packages/skiasharp.views/1.68.1.1/skiasharp.views.1.68.1.1.nupkg.sha512",
